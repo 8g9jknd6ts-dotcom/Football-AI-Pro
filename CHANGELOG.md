@@ -269,3 +269,9 @@
 - Added executable Chinese Crazy Red List quality validation and a CSV transcription template.
 - Validation checks Chinese-label semantics, same-company initial/current pairing, identity fields, water values, source hash and duplicate rows.
 - Validation remains a data gate; it does not promote screenshots into training or production.
+## Football AI 1.0.0-alpha.44 - 2026-07-19
+
+- Added a reproducible eight-match postmortem generator with verified outcomes, settlement records and source references.
+- Added the 2026-07-18 postmortem report and synchronized its outcome records into the tracking database.
+- Added the latest user preference: persist corrections, prediction context, market data, final result and P/L rather than rely on chat memory.
+- Kept the postmortem leakage-safe: verified outcomes are audit-only and never enter pre-match feature generation.
