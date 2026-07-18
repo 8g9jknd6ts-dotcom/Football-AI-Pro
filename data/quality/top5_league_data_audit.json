@@ -1,0 +1,87 @@
+[
+  {
+    "league": "EPL",
+    "raw_files": [],
+    "standardized_files": [],
+    "archive_match_count": 2280,
+    "archive_seasons": [
+      "2020-21",
+      "2021-22",
+      "2022-23",
+      "2023-24",
+      "2024-25",
+      "2025-26"
+    ],
+    "result_fields_present": false,
+    "headers": [],
+    "status": "ARCHIVE_SAMPLE_PRESENT"
+  },
+  {
+    "league": "LaLiga",
+    "raw_files": [],
+    "standardized_files": [],
+    "archive_match_count": 2280,
+    "archive_seasons": [
+      "2020-21",
+      "2021-22",
+      "2022-23",
+      "2023-24",
+      "2024-25",
+      "2025-26"
+    ],
+    "result_fields_present": false,
+    "headers": [],
+    "status": "ARCHIVE_SAMPLE_PRESENT"
+  },
+  {
+    "league": "SerieA",
+    "raw_files": [],
+    "standardized_files": [],
+    "archive_match_count": 2280,
+    "archive_seasons": [
+      "2020-21",
+      "2021-22",
+      "2022-23",
+      "2023-24",
+      "2024-25",
+      "2025-26"
+    ],
+    "result_fields_present": false,
+    "headers": [],
+    "status": "ARCHIVE_SAMPLE_PRESENT"
+  },
+  {
+    "league": "Bundesliga",
+    "raw_files": [],
+    "standardized_files": [],
+    "archive_match_count": 1836,
+    "archive_seasons": [
+      "2020-21",
+      "2021-22",
+      "2022-23",
+      "2023-24",
+      "2024-25",
+      "2025-26"
+    ],
+    "result_fields_present": false,
+    "headers": [],
+    "status": "ARCHIVE_SAMPLE_PRESENT"
+  },
+  {
+    "league": "Ligue1",
+    "raw_files": [],
+    "standardized_files": [],
+    "archive_match_count": 2057,
+    "archive_seasons": [
+      "2020-21",
+      "2021-22",
+      "2022-23",
+      "2023-24",
+      "2024-25",
+      "2025-26"
+    ],
+    "result_fields_present": false,
+    "headers": [],
+    "status": "ARCHIVE_SAMPLE_PRESENT"
+  }
+]

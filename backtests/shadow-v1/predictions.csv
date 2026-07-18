@@ -1,0 +1,1 @@
+MatchID,LeagueCode,MatchDate,SnapshotTime,ModelVersion,Market,Home,Away,ModelPick,ModelProb,SecondProb,ProbEdge,AIScore,Confidence,MarketPick,MarketProb,Abstain,OddsAtSnapshot,Outcome,Correct,ROI,Brier,LogLoss,DataCompleteness,Notes

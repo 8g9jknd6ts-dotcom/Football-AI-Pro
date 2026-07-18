@@ -1,0 +1,763 @@
+Season,HomeTeam,AwayTeam,FTHG,FTAG,Res
+2020,Breiðablik,Fylkir,4,1,H
+2020,Valur,Grótta,6,0,H
+2020,Stjarnan,Fjölnir,1,0,H
+2020,HK,KR,1,1,D
+2020,ÍA,FH,0,4,A
+2020,Víkingur R.,KA,2,2,D
+2020,Stjarnan,FH,1,1,D
+2020,Víkingur R.,KR,0,2,A
+2020,Breiðablik,KA,1,1,D
+2020,HK,Stjarnan,2,3,A
+2020,Valur,Breiðablik,1,1,D
+2020,Grótta,KA,2,4,A
+2020,ÍA,Víkingur R.,2,2,D
+2020,FH,Fjölnir,1,0,H
+2020,KR,Fylkir,1,2,A
+2020,Fylkir,Víkingur R.,2,1,H
+2020,Breiðablik,Stjarnan,2,1,H
+2020,FH,Valur,1,4,A
+2020,Fjölnir,ÍA,1,2,A
+2020,KR,Grótta,1,1,D
+2020,KA,HK,1,1,D
+2020,Víkingur R.,HK,1,1,D
+2020,Breiðablik,KR,0,2,A
+2020,Stjarnan,Valur,1,5,A
+2020,Fylkir,FH,1,4,A
+2020,ÍA,Grótta,3,0,H
+2020,Fjölnir,KA,1,1,D
+2020,ÍA,Valur,2,4,A
+2020,FH,Víkingur R.,1,0,H
+2020,Grótta,Fjölnir,2,2,D
+2020,Valur,Víkingur R.,2,0,H
+2020,HK,ÍA,3,2,H
+2020,FH,Breiðablik,3,1,H
+2020,KA,Fylkir,2,0,H
+2020,KR,Stjarnan,1,2,A
+2020,Fjölnir,Breiðablik,1,4,A
+2020,Grótta,Fylkir,0,2,A
+2020,Valur,HK,1,0,H
+2020,KR,ÍA,4,1,H
+2020,HK,Grótta,3,0,H
+2020,Stjarnan,KA,1,1,D
+2020,KR,Valur,4,5,A
+2020,Fylkir,Fjölnir,2,0,H
+2020,KA,ÍA,2,2,D
+2020,FH,HK,4,0,H
+2020,Fylkir,Stjarnan,1,1,D
+2020,Grótta,Breiðablik,0,1,A
+2020,Fjölnir,Víkingur R.,1,1,D
+2020,FH,Stjarnan,1,2,A
+2020,Víkingur R.,Breiðablik,2,4,A
+2020,HK,Fjölnir,3,1,H
+2020,ÍA,Fylkir,3,2,H
+2020,Valur,KA,1,0,H
+2020,Stjarnan,Grótta,1,1,D
+2020,KR,FH,1,2,A
+2020,Stjarnan,Víkingur R.,1,1,D
+2020,FH,Grótta,2,1,H
+2020,Fjölnir,Valur,1,3,A
+2020,Fylkir,HK,3,2,H
+2020,Breiðablik,ÍA,5,3,H
+2020,HK,Breiðablik,1,0,H
+2020,Valur,Fylkir,3,0,H
+2020,Grótta,Víkingur R.,1,1,D
+2020,ÍA,Stjarnan,1,2,A
+2020,KR,Fjölnir,2,2,D
+2020,Breiðablik,Valur,1,2,A
+2020,Víkingur R.,ÍA,6,2,H
+2020,Fylkir,KR,0,3,A
+2020,KA,Grótta,1,0,H
+2020,Fjölnir,FH,0,3,A
+2020,Stjarnan,HK,4,1,H
+2020,FH,Fylkir,1,2,A
+2020,KR,Breiðablik,3,1,H
+2020,KA,Fjölnir,1,1,D
+2020,HK,Víkingur R.,0,2,A
+2020,Grótta,ÍA,0,4,A
+2020,Fylkir,KA,4,1,H
+2020,Breiðablik,FH,3,3,D
+2020,ÍA,HK,2,2,D
+2020,Fjölnir,Grótta,0,3,A
+2020,Víkingur R.,Valur,1,5,A
+2020,KA,Breiðablik,2,2,D
+2020,KR,Víkingur R.,2,0,H
+2020,Grótta,HK,4,4,D
+2020,Fjölnir,Fylkir,1,2,A
+2020,Valur,ÍA,1,4,A
+2020,Fylkir,Grótta,2,0,H
+2020,Víkingur R.,FH,4,1,H
+2020,Breiðablik,Fjölnir,3,1,H
+2020,ÍA,KR,1,2,A
+2020,HK,Valur,0,4,A
+2020,FH,ÍA,2,1,H
+2020,Fylkir,Breiðablik,0,1,A
+2020,Fjölnir,Stjarnan,1,4,A
+2020,KR,HK,0,3,A
+2020,Grótta,Valur,0,3,A
+2020,Stjarnan,Fylkir,2,1,H
+2020,Víkingur R.,Fjölnir,1,1,D
+2020,Breiðablik,Grótta,3,0,H
+2020,HK,FH,2,3,A
+2020,ÍA,KA,3,1,H
+2020,Valur,KR,0,1,A
+2021,Breiðablik,HK,3,0,H
+2021,Víkingur R.,Leiknir R.,2,0,H
+2021,Stjarnan,KR,0,2,A
+2021,Fylkir,Valur,0,6,A
+2021,KA,FH,2,2,D
+2021,Keflavík,ÍA,2,3,A
+2021,HK,Stjarnan,1,0,H
+2021,Valur,KA,1,4,A
+2021,KR,Víkingur R.,1,2,A
+2021,FH,Breiðablik,1,0,H
+2021,ÍA,Fylkir,5,0,H
+2021,Leiknir R.,Keflavík,0,1,A
+2021,Stjarnan,FH,0,4,A
+2021,Breiðablik,Valur,3,0,H
+2021,Víkingur R.,HK,3,0,H
+2021,ÍA,Leiknir R.,3,1,H
+2021,Keflavík,KR,0,2,A
+2021,KA,Fylkir,2,0,H
+2021,HK,Keflavík,1,0,H
+2021,Fylkir,Breiðablik,0,7,A
+2021,KR,Leiknir R.,2,1,H
+2021,FH,Víkingur R.,1,2,A
+2021,KA,ÍA,3,0,H
+2021,Valur,Stjarnan,1,2,A
+2021,ÍA,KR,0,2,A
+2021,FH,Keflavík,0,0,D
+2021,KA,Breiðablik,0,2,A
+2021,Stjarnan,Fylkir,2,0,H
+2021,Leiknir R.,HK,0,0,D
+2021,Víkingur R.,Valur,2,1,H
+2021,Breiðablik,KA,2,0,H
+2021,Keflavík,FH,0,5,A
+2021,Fylkir,Víkingur R.,0,3,A
+2021,HK,KR,0,1,A
+2021,Breiðablik,ÍA,2,1,H
+2021,Valur,Keflavík,2,1,H
+2021,FH,Leiknir R.,5,0,H
+2021,KA,Stjarnan,2,1,H
+2021,Stjarnan,Breiðablik,1,3,A
+2021,ÍA,HK,4,1,H
+2021,Keflavík,Fylkir,1,1,D
+2021,KR,FH,1,1,D
+2021,Leiknir R.,Valur,1,0,H
+2021,Víkingur R.,KA,2,2,D
+2021,FH,HK,2,4,A
+2021,Valur,KR,1,0,H
+2021,Stjarnan,ÍA,4,0,H
+2021,Fylkir,Leiknir R.,0,0,D
+2021,KA,Keflavík,2,1,H
+2021,Breiðablik,Víkingur R.,4,0,H
+2021,KR,Fylkir,4,0,H
+2021,Keflavík,Breiðablik,2,0,H
+2021,HK,Valur,0,3,A
+2021,Víkingur R.,Stjarnan,3,2,H
+2021,ÍA,FH,0,3,A
+2021,Leiknir R.,KA,0,1,A
+2021,Leiknir R.,Stjarnan,2,0,H
+2021,Keflavík,Víkingur R.,1,2,A
+2021,KR,Breiðablik,1,1,D
+2021,FH,Fylkir,1,0,H
+2021,KA,HK,2,0,H
+2021,ÍA,Valur,2,1,H
+2021,HK,Víkingur R.,0,0,D
+2021,Fylkir,KA,2,1,H
+2021,KR,Keflavík,1,0,H
+2021,Leiknir R.,ÍA,2,0,H
+2021,Fylkir,HK,1,2,A
+2021,KA,KR,1,2,A
+2021,Víkingur R.,ÍA,1,0,H
+2021,Breiðablik,Leiknir R.,4,0,H
+2021,Stjarnan,Keflavík,2,3,A
+2021,Valur,FH,2,0,H
+2021,ÍA,Keflavík,2,2,D
+2021,KR,Stjarnan,1,2,A
+2021,Leiknir R.,Víkingur R.,2,1,H
+2021,Valur,Fylkir,1,1,D
+2021,HK,Breiðablik,2,3,A
+2021,FH,KA,1,1,D
+2021,Víkingur R.,KR,1,1,D
+2021,Breiðablik,FH,4,0,H
+2021,Keflavík,Leiknir R.,1,0,H
+2021,Fylkir,ÍA,3,1,H
+2021,Stjarnan,HK,2,1,H
+2021,KA,Valur,0,1,A
+2021,FH,Stjarnan,1,1,D
+2021,Valur,Breiðablik,3,1,H
+2021,ÍA,KA,0,2,A
+2021,Keflavík,HK,2,0,H
+2021,Leiknir R.,KR,0,2,A
+2021,Stjarnan,Valur,2,1,H
+2021,Víkingur R.,FH,2,0,H
+2021,Breiðablik,Fylkir,2,0,H
+2021,Valur,Víkingur R.,1,1,D
+2021,Fylkir,Stjarnan,1,1,D
+2021,HK,Leiknir R.,2,1,H
+2021,KR,ÍA,3,1,H
+2021,KR,HK,1,1,D
+2021,Leiknir R.,FH,2,1,H
+2021,Víkingur R.,Fylkir,2,2,D
+2021,ÍA,Breiðablik,2,3,A
+2021,Stjarnan,KA,0,1,A
+2021,Keflavík,Valur,1,2,A
+2021,FH,KR,0,2,A
+2021,Valur,Leiknir R.,1,0,H
+2021,Fylkir,Keflavík,4,2,H
+2021,Breiðablik,Stjarnan,4,0,H
+2021,KA,Víkingur R.,0,1,A
+2021,HK,ÍA,1,3,A
+2021,HK,FH,1,3,A
+2021,ÍA,Stjarnan,0,0,D
+2021,KR,Valur,2,3,A
+2021,Keflavík,KA,1,4,A
+2021,Leiknir R.,Fylkir,3,0,H
+2021,Víkingur R.,Breiðablik,3,0,H
+2021,Breiðablik,Keflavík,4,0,H
+2021,FH,ÍA,5,1,H
+2021,Stjarnan,Víkingur R.,2,3,A
+2021,Valur,HK,3,2,H
+2021,Fylkir,KR,1,1,D
+2021,KA,Leiknir R.,3,0,H
+2021,FH,Valur,1,1,D
+2021,Keflavík,Stjarnan,2,0,H
+2021,Leiknir R.,Breiðablik,3,3,D
+2021,HK,Fylkir,2,2,D
+2021,ÍA,Víkingur R.,1,1,D
+2021,KR,KA,1,3,A
+2021,Breiðablik,KR,0,2,A
+2021,Víkingur R.,Keflavík,1,0,H
+2021,Stjarnan,Leiknir R.,0,0,D
+2021,Fylkir,FH,0,2,A
+2021,HK,KA,0,0,D
+2021,Valur,ÍA,2,0,H
+2022,Breiðablik,ÍBV,3,0,H
+2022,Víkingur R.,KR,2,2,D
+2022,Fram,Keflavík,4,8,A
+2022,Stjarnan,FH,2,1,H
+2022,ÍA,Leiknir R.,1,2,A
+2022,Valur,KA,0,1,A
+2022,KA,Breiðablik,2,1,H
+2022,KR,Stjarnan,3,1,H
+2022,Leiknir R.,Valur,1,0,H
+2022,Keflavík,Víkingur R.,0,3,A
+2022,ÍBV,Fram,2,2,D
+2022,FH,ÍA,6,1,H
+2022,Víkingur R.,Leiknir R.,9,0,H
+2022,Breiðablik,Valur,1,0,H
+2022,Stjarnan,Keflavík,0,2,A
+2022,Fram,KA,2,2,D
+2022,ÍA,KR,4,4,D
+2022,Leiknir R.,FH,0,0,D
+2022,Víkingur R.,ÍBV,2,2,D
+2022,Valur,Fram,1,1,D
+2022,Breiðablik,Leiknir R.,4,0,H
+2022,KR,FH,0,0,D
+2022,Keflavík,ÍA,0,1,A
+2022,KA,Víkingur R.,2,3,A
+2022,ÍBV,Stjarnan,3,1,H
+2022,Víkingur R.,Valur,2,2,D
+2022,Fram,Breiðablik,0,2,A
+2022,FH,Keflavík,3,0,H
+2022,Leiknir R.,KR,4,3,H
+2022,Stjarnan,KA,2,4,A
+2022,ÍA,ÍBV,2,1,H
+2022,Fram,Leiknir R.,4,1,H
+2022,Breiðablik,Víkingur R.,1,1,D
+2022,Keflavík,KR,0,0,D
+2022,Valur,Stjarnan,6,1,H
+2022,KA,ÍA,3,0,H
+2022,ÍBV,FH,4,1,H
+2022,ÍA,Valur,1,2,A
+2022,Leiknir R.,Keflavík,1,2,A
+2022,Fram,Víkingur R.,3,3,D
+2022,Stjarnan,Breiðablik,5,2,H
+2022,FH,KA,0,3,A
+2022,KR,ÍBV,4,0,H
+2022,Valur,FH,2,0,H
+2022,Fram,Stjarnan,2,2,D
+2022,KA,KR,0,1,A
+2022,Breiðablik,ÍA,3,1,H
+2022,ÍBV,Keflavík,2,2,D
+2022,Stjarnan,Víkingur R.,2,2,D
+2022,KR,Valur,3,3,D
+2022,ÍA,Fram,0,4,A
+2022,FH,Breiðablik,0,0,D
+2022,Keflavík,KA,1,3,A
+2022,Leiknir R.,ÍBV,1,4,A
+2022,KR,Fram,1,1,D
+2022,ÍA,Stjarnan,0,3,A
+2022,Keflavík,Breiðablik,2,3,A
+2022,Leiknir R.,KA,0,5,A
+2022,ÍBV,Valur,3,2,H
+2022,FH,Víkingur R.,0,3,A
+2022,Fram,FH,1,0,H
+2022,Stjarnan,Leiknir R.,0,3,A
+2022,Valur,Keflavík,0,3,A
+2022,KA,ÍBV,4,3,H
+2022,Víkingur R.,ÍA,3,2,H
+2022,FH,Stjarnan,1,1,D
+2022,Leiknir R.,ÍA,1,0,H
+2022,KA,Valur,1,1,D
+2022,Keflavík,Fram,3,1,H
+2022,ÍBV,Breiðablik,0,0,D
+2022,KR,Víkingur R.,0,3,A
+2022,Breiðablik,KR,4,0,H
+2022,ÍA,FH,1,1,D
+2022,Valur,Leiknir R.,2,1,H
+2022,Breiðablik,KA,4,1,H
+2022,Stjarnan,KR,1,1,D
+2022,Fram,ÍBV,3,3,D
+2022,Valur,Breiðablik,3,2,H
+2022,Keflavík,Stjarnan,2,2,D
+2022,FH,Leiknir R.,2,2,D
+2022,KA,Fram,2,2,D
+2022,KR,ÍA,3,3,D
+2022,ÍBV,Víkingur R.,0,3,A
+2022,FH,KR,2,3,A
+2022,Leiknir R.,Breiðablik,1,2,A
+2022,ÍA,Keflavík,0,2,A
+2022,Stjarnan,ÍBV,1,0,H
+2022,Víkingur R.,KA,2,1,H
+2022,Fram,Valur,3,2,H
+2022,Breiðablik,Fram,4,3,H
+2022,Valur,Víkingur R.,1,3,A
+2022,Keflavík,FH,2,1,H
+2022,KR,Leiknir R.,1,1,D
+2022,KA,Stjarnan,0,2,A
+2022,ÍBV,ÍA,0,0,D
+2022,Víkingur R.,Breiðablik,0,3,A
+2022,KR,Keflavík,1,0,H
+2022,Leiknir R.,Fram,1,2,A
+2022,Stjarnan,Valur,1,0,H
+2022,ÍA,KA,0,3,A
+2022,FH,ÍBV,2,0,H
+2022,Víkingur R.,Fram,4,1,H
+2022,Keflavík,Leiknir R.,3,0,H
+2022,Valur,ÍA,4,0,H
+2022,KA,FH,1,0,H
+2022,Breiðablik,Stjarnan,3,2,H
+2022,ÍBV,KR,1,2,A
+2022,Leiknir R.,Víkingur R.,0,0,D
+2022,KR,KA,0,0,D
+2022,Stjarnan,Fram,1,1,D
+2022,Keflavík,ÍBV,3,3,D
+2022,ÍA,Breiðablik,1,5,A
+2022,FH,Valur,2,2,D
+2022,Fram,ÍA,1,1,D
+2022,Víkingur R.,Stjarnan,4,5,A
+2022,KA,Keflavík,3,2,H
+2022,Breiðablik,FH,3,0,H
+2022,ÍBV,Leiknir R.,1,1,D
+2022,Valur,KR,2,1,H
+2022,Víkingur R.,Keflavík,4,1,H
+2022,FH,Fram,4,2,H
+2022,KR,Breiðablik,0,1,A
+2022,ÍA,Víkingur R.,3,0,H
+2022,Keflavík,Valur,0,1,A
+2022,Leiknir R.,Stjarnan,0,3,A
+2022,ÍBV,KA,0,3,A
+2022,Fram,KR,1,4,A
+2022,KA,Leiknir R.,1,0,H
+2022,Breiðablik,Keflavík,4,1,H
+2022,Stjarnan,ÍA,2,2,D
+2022,Valur,ÍBV,2,1,H
+2022,Víkingur R.,FH,2,1,H
+2023,Fram,Víkingur R.,2,3,A
+2023,Breiðablik,FH,0,2,A
+2023,ÍBV,KR,2,2,D
+2023,Stjarnan,Keflavík,3,0,H
+2023,Valur,HK,4,1,H
+2023,Fylkir,KA,1,1,D
+2023,FH,KA,0,3,A
+2023,HK,ÍBV,2,2,D
+2023,Víkingur R.,Breiðablik,5,3,H
+2023,KR,Fylkir,2,0,H
+2023,Keflavík,Fram,0,0,D
+2023,FH,Valur,3,2,H
+2023,KA,Stjarnan,2,1,H
+2023,Stjarnan,KR,3,1,H
+2023,HK,FH,2,2,D
+2023,Valur,Víkingur R.,0,4,A
+2023,Breiðablik,Keflavík,2,1,H
+2023,Fram,KA,2,1,H
+2023,ÍBV,Fylkir,0,1,A
+2023,Fylkir,Stjarnan,0,4,A
+2023,Víkingur R.,HK,6,1,H
+2023,KR,Fram,3,2,H
+2023,Keflavík,Valur,1,1,D
+2023,FH,ÍBV,2,1,H
+2023,KA,Breiðablik,1,1,D
+2023,HK,Keflavík,3,1,H
+2023,FH,Víkingur R.,1,3,A
+2023,Fram,Fylkir,1,1,D
+2023,Valur,KA,4,2,H
+2023,Breiðablik,KR,3,4,A
+2023,ÍBV,Stjarnan,0,2,A
+2023,KR,Valur,0,4,A
+2023,Keflavík,FH,2,3,A
+2023,Víkingur R.,ÍBV,6,0,H
+2023,KA,HK,1,1,D
+2023,Breiðablik,Stjarnan,1,1,D
+2023,Stjarnan,Fram,4,0,H
+2023,FH,Fylkir,2,4,A
+2023,Keflavík,KA,3,4,A
+2023,KR,Víkingur R.,1,2,A
+2023,Valur,Fram,1,0,H
+2023,HK,Stjarnan,1,1,D
+2023,Breiðablik,ÍBV,3,1,H
+2023,Fylkir,HK,0,0,D
+2023,KR,FH,1,0,H
+2023,Stjarnan,Valur,2,0,H
+2023,ÍBV,Keflavík,1,1,D
+2023,Fram,Breiðablik,0,1,A
+2023,HK,KR,1,1,D
+2023,Valur,Fylkir,2,1,H
+2023,Keflavík,Víkingur R.,3,3,D
+2023,ÍBV,Fram,1,0,H
+2023,Breiðablik,Fylkir,5,1,H
+2023,Stjarnan,FH,5,0,H
+2023,Fylkir,Víkingur R.,1,3,A
+2023,KR,Keflavík,2,0,H
+2023,Fram,HK,3,2,H
+2023,ÍBV,KA,2,0,H
+2023,Víkingur R.,Stjarnan,2,0,H
+2023,KR,KA,2,0,H
+2023,ÍBV,Valur,0,3,A
+2023,HK,Breiðablik,5,2,H
+2023,FH,Fram,4,0,H
+2023,Keflavík,Fylkir,1,1,D
+2023,Keflavík,Stjarnan,1,1,D
+2023,Víkingur R.,Fram,3,1,H
+2023,HK,Valur,0,5,A
+2023,FH,Breiðablik,2,2,D
+2023,KR,ÍBV,1,1,D
+2023,KA,Fylkir,2,1,H
+2023,Valur,FH,1,1,D
+2023,Fram,Keflavík,4,1,H
+2023,Breiðablik,Víkingur R.,2,2,D
+2023,Stjarnan,KA,4,0,H
+2023,Fylkir,KR,3,3,D
+2023,ÍBV,HK,3,0,H
+2023,Víkingur R.,Valur,2,3,A
+2023,Keflavík,Breiðablik,0,0,D
+2023,KA,Fram,4,2,H
+2023,KR,Stjarnan,1,0,H
+2023,FH,HK,4,3,H
+2023,Fylkir,ÍBV,2,1,H
+2023,Breiðablik,Valur,1,0,H
+2023,KA,Víkingur R.,0,4,A
+2023,Stjarnan,Fylkir,2,2,D
+2023,Fram,KR,1,2,A
+2023,ÍBV,FH,2,3,A
+2023,HK,Víkingur R.,1,2,A
+2023,Valur,Keflavík,0,0,D
+2023,Breiðablik,KA,2,0,H
+2023,Víkingur R.,FH,2,0,H
+2023,Fylkir,Fram,3,1,H
+2023,Keflavík,HK,0,2,A
+2023,KA,Valur,0,4,A
+2023,KR,Breiðablik,0,1,A
+2023,Stjarnan,ÍBV,4,0,H
+2023,Fylkir,Breiðablik,1,2,A
+2023,Fram,Stjarnan,2,1,H
+2023,FH,Keflavík,2,1,H
+2023,ÍBV,Víkingur R.,0,1,A
+2023,Valur,KR,5,0,H
+2023,HK,KA,1,2,A
+2023,Víkingur R.,Keflavík,4,1,H
+2023,Stjarnan,Breiðablik,0,2,A
+2023,Fylkir,Valur,1,6,A
+2023,KR,HK,0,1,A
+2023,KA,FH,4,2,H
+2023,Fram,ÍBV,3,1,H
+2023,Valur,Stjarnan,3,2,H
+2023,Keflavík,ÍBV,1,3,A
+2023,Víkingur R.,KA,1,0,H
+2023,HK,Fylkir,1,0,H
+2023,FH,KR,3,0,H
+2023,Breiðablik,Fram,5,4,H
+2023,Fylkir,FH,4,2,H
+2023,Stjarnan,HK,5,4,H
+2023,Víkingur R.,KR,3,0,H
+2023,Fram,Valur,1,3,A
+2023,ÍBV,Breiðablik,2,1,H
+2023,KA,Keflavík,0,0,D
+2023,Valur,Breiðablik,0,2,A
+2023,HK,Fram,1,1,D
+2023,Víkingur R.,Fylkir,2,0,H
+2023,FH,Stjarnan,1,0,H
+2023,KA,ÍBV,3,0,H
+2023,Keflavík,KR,0,2,A
+2023,Breiðablik,HK,3,4,A
+2023,Fram,FH,2,2,D
+2023,Stjarnan,Víkingur R.,0,2,A
+2023,Valur,ÍBV,2,1,H
+2023,Fylkir,Keflavík,1,2,A
+2023,KA,KR,1,1,D
+2024,Fylkir,Víkingur R.,0,6,A
+2024,Valur,KR,4,1,H
+2024,Breiðablik,HK,5,3,H
+2024,Stjarnan,Vestri,1,0,H
+2024,Fram,FH,3,3,D
+2024,ÍA,KA,1,0,H
+2024,KR,Víkingur R.,0,3,A
+2024,HK,Fram,1,0,H
+2024,Víkingur R.,Valur,3,2,H
+2024,FH,Stjarnan,0,3,A
+2024,KR,ÍA,4,2,H
+2024,KA,Breiðablik,2,3,A
+2024,Vestri,Fylkir,0,0,D
+2024,Stjarnan,HK,2,0,H
+2024,Fylkir,FH,2,3,A
+2024,ÍA,Breiðablik,1,2,A
+2024,Fram,KA,1,2,A
+2024,Valur,Vestri,3,1,H
+2024,HK,KR,3,2,H
+2024,Breiðablik,Fram,3,1,H
+2024,Víkingur R.,ÍA,1,2,A
+2024,FH,Valur,2,2,D
+2024,HK,Fylkir,0,2,A
+2024,KA,Stjarnan,1,1,D
+2024,Vestri,KR,2,0,H
+2024,Valur,Breiðablik,0,2,A
+2024,KR,FH,1,0,H
+2024,ÍA,Fram,1,0,H
+2024,Valur,HK,5,1,H
+2024,Stjarnan,Breiðablik,2,2,D
+2024,Fylkir,KA,1,1,D
+2024,Víkingur R.,Vestri,1,1,D
+2024,Vestri,ÍA,0,0,D
+2024,Fram,Stjarnan,2,1,H
+2024,KA,Valur,1,0,H
+2024,Breiðablik,Fylkir,3,0,H
+2024,FH,Víkingur R.,2,3,A
+2024,Fylkir,Fram,0,0,D
+2024,KR,KA,2,2,D
+2024,Fram,Valur,4,1,H
+2024,Víkingur R.,HK,5,1,H
+2024,ÍA,Stjarnan,1,3,A
+2024,Vestri,FH,0,2,A
+2024,FH,ÍA,1,1,D
+2024,Breiðablik,KR,4,2,H
+2024,Stjarnan,Fylkir,2,0,H
+2024,KA,Víkingur R.,1,0,H
+2024,HK,Vestri,1,1,D
+2024,Fylkir,ÍA,3,0,H
+2024,FH,HK,3,1,H
+2024,Vestri,KA,0,2,A
+2024,Fram,KR,1,0,H
+2024,FH,KA,1,1,D
+2024,Valur,Fylkir,4,0,H
+2024,KR,Stjarnan,1,1,D
+2024,Vestri,Breiðablik,2,2,D
+2024,ÍA,HK,8,0,H
+2024,Víkingur R.,Fram,2,1,H
+2024,FH,Breiðablik,1,0,H
+2024,ÍA,Valur,3,2,H
+2024,HK,KA,1,2,A
+2024,Stjarnan,Víkingur R.,0,4,A
+2024,KR,Fylkir,2,2,D
+2024,Vestri,Fram,1,3,A
+2024,Breiðablik,ÍA,1,1,D
+2024,FH,Fylkir,3,1,H
+2024,KA,Fram,3,2,H
+2024,Víkingur R.,KR,1,1,D
+2024,HK,Stjarnan,4,3,H
+2024,Vestri,Valur,1,5,A
+2024,Breiðablik,KA,2,1,H
+2024,Valur,Víkingur R.,2,2,D
+2024,Fram,HK,1,2,A
+2024,ÍA,KR,2,1,H
+2024,Stjarnan,FH,4,2,H
+2024,Fylkir,Vestri,3,2,H
+2024,KR,Valur,3,5,A
+2024,HK,Breiðablik,0,2,A
+2024,Víkingur R.,Fylkir,5,2,H
+2024,Vestri,Stjarnan,4,2,H
+2024,KA,ÍA,2,3,A
+2024,FH,Fram,3,3,D
+2024,Breiðablik,Víkingur R.,1,1,D
+2024,Valur,Stjarnan,5,1,H
+2024,Fylkir,HK,3,1,H
+2024,Stjarnan,KA,5,0,H
+2024,Fram,Breiðablik,1,4,A
+2024,Valur,FH,2,2,D
+2024,ÍA,Víkingur R.,0,1,A
+2024,KR,Vestri,2,2,D
+2024,Fram,ÍA,1,1,D
+2024,Breiðablik,Stjarnan,2,1,H
+2024,HK,Valur,1,2,A
+2024,FH,KR,1,2,A
+2024,KA,Fylkir,4,2,H
+2024,Vestri,Víkingur R.,1,4,A
+2024,Víkingur R.,FH,2,0,H
+2024,Fylkir,Breiðablik,0,3,A
+2024,KR,HK,1,2,A
+2024,Valur,KA,3,1,H
+2024,ÍA,Vestri,3,0,H
+2024,Stjarnan,Fram,1,1,D
+2024,Breiðablik,Valur,2,3,A
+2024,HK,Víkingur R.,3,1,H
+2024,Fram,Fylkir,2,1,H
+2024,Stjarnan,ÍA,4,1,H
+2024,KA,KR,1,1,D
+2024,FH,Vestri,3,2,H
+2024,Fylkir,Stjarnan,0,1,A
+2024,Valur,Fram,1,1,D
+2024,KR,Breiðablik,2,3,A
+2024,Víkingur R.,KA,4,2,H
+2024,ÍA,FH,1,2,A
+2024,Vestri,HK,1,0,H
+2024,Víkingur R.,Breiðablik,4,1,H
+2024,ÍA,Fylkir,5,1,H
+2024,KA,Vestri,0,1,A
+2024,KR,Fram,0,1,A
+2024,HK,FH,0,2,A
+2024,Stjarnan,Valur,1,0,H
+2024,Fram,Víkingur R.,0,1,A
+2024,Fylkir,Valur,0,0,D
+2024,HK,ÍA,0,4,A
+2024,KA,FH,2,3,A
+2024,Breiðablik,Vestri,4,0,H
+2024,Stjarnan,KR,1,3,A
+2024,Breiðablik,FH,2,0,H
+2024,Fylkir,KR,3,4,A
+2024,Valur,ÍA,2,0,H
+2024,Fram,Vestri,2,0,H
+2024,KA,HK,1,1,D
+2024,Víkingur R.,Stjarnan,2,0,H
+2025,Breiðablik,ÍBV,1,1,D
+2025,ÍA,Afturelding,3,1,H
+2025,Valur,Stjarnan,1,2,A
+2025,KR,Víkingur R.,0,7,A
+2025,FH,Fram,2,2,D
+2025,KA,Vestri,4,1,H
+2025,ÍA,Breiðablik,3,0,H
+2025,Fram,Valur,2,1,H
+2025,Víkingur R.,Breiðablik,2,2,D
+2025,Stjarnan,KA,3,2,H
+2025,ÍBV,ÍA,2,0,H
+2025,Vestri,KR,1,1,D
+2025,Afturelding,FH,1,2,A
+2025,Valur,Afturelding,4,3,H
+2025,Víkingur R.,Vestri,4,1,H
+2025,KR,Stjarnan,1,2,A
+2025,FH,ÍBV,1,1,D
+2025,KA,Fram,2,0,H
+2025,Fram,KR,0,1,A
+2025,Breiðablik,FH,4,5,A
+2025,ÍA,Víkingur R.,0,1,A
+2025,Afturelding,KA,3,3,D
+2025,Stjarnan,Vestri,2,1,H
+2025,ÍBV,Valur,4,1,H
+2025,FH,ÍA,3,2,H
+2025,KR,Afturelding,2,1,H
+2025,Valur,Breiðablik,2,1,H
+2025,Víkingur R.,Stjarnan,2,4,A
+2025,KA,ÍBV,1,0,H
+2025,Vestri,Fram,3,2,H
+2025,Fram,Stjarnan,1,1,D
+2025,Afturelding,Vestri,1,1,D
+2025,ÍA,Valur,2,2,D
+2025,FH,Víkingur R.,2,2,D
+2025,Breiðablik,KA,1,1,D
+2025,ÍBV,KR,2,1,H
+2025,Stjarnan,Afturelding,4,1,H
+2025,Fram,Víkingur R.,2,2,D
+2025,Valur,FH,3,1,H
+2025,Vestri,ÍBV,2,0,H
+2025,KR,Breiðablik,1,1,D
+2025,Víkingur R.,Valur,1,2,A
+2025,KA,ÍA,2,0,H
+2025,Breiðablik,Vestri,1,0,H
+2025,Afturelding,Fram,1,1,D
+2025,ÍA,KR,1,0,H
+2025,ÍBV,Stjarnan,1,0,H
+2025,FH,KA,5,0,H
+2025,FH,Stjarnan,1,1,D
+2025,KR,KA,1,2,A
+2025,ÍBV,Víkingur R.,0,0,D
+2025,ÍA,Fram,0,1,A
+2025,Vestri,Valur,0,2,A
+2025,Afturelding,Breiðablik,2,2,D
+2025,KR,FH,3,2,H
+2025,Víkingur R.,Afturelding,2,1,H
+2025,Vestri,ÍA,0,2,A
+2025,Fram,ÍBV,2,0,H
+2025,Stjarnan,Breiðablik,1,4,A
+2025,KA,Valur,2,5,A
+2025,Breiðablik,Fram,1,1,D
+2025,Valur,KR,6,1,H
+2025,ÍBV,Afturelding,1,2,A
+2025,ÍA,Stjarnan,0,3,A
+2025,KA,Víkingur R.,0,2,A
+2025,FH,Vestri,2,0,H
+2025,Víkingur R.,KR,3,2,H
+2025,Fram,FH,2,0,H
+2025,Afturelding,ÍA,4,1,H
+2025,ÍBV,Breiðablik,0,2,A
+2025,Vestri,KA,1,0,H
+2025,Stjarnan,Valur,3,2,H
+2025,Valur,Fram,2,1,H
+2025,Breiðablik,Víkingur R.,3,1,H
+2025,FH,Afturelding,0,0,D
+2025,ÍA,ÍBV,0,3,A
+2025,KA,Stjarnan,1,1,D
+2025,KR,Vestri,2,1,H
+2025,Stjarnan,KR,4,2,H
+2025,Breiðablik,ÍA,1,4,A
+2025,ÍBV,FH,2,1,H
+2025,Afturelding,Valur,0,2,A
+2025,Fram,KA,1,2,A
+2025,Vestri,Víkingur R.,0,1,A
+2025,FH,Breiðablik,2,0,H
+2025,Víkingur R.,ÍA,2,1,H
+2025,Vestri,Stjarnan,3,1,H
+2025,Valur,ÍBV,3,0,H
+2025,KA,Afturelding,1,0,H
+2025,KR,Fram,2,3,A
+2025,ÍA,FH,1,3,A
+2025,Stjarnan,Víkingur R.,2,2,D
+2025,Breiðablik,Valur,2,1,H
+2025,Afturelding,KR,4,3,H
+2025,Fram,Vestri,1,0,H
+2025,ÍBV,KA,0,0,D
+2025,Víkingur R.,FH,3,1,H
+2025,KA,Breiðablik,0,1,A
+2025,Stjarnan,Fram,2,0,H
+2025,Valur,ÍA,6,1,H
+2025,KR,ÍBV,4,1,H
+2025,Vestri,Afturelding,2,0,H
+2025,Afturelding,Stjarnan,3,0,H
+2025,Víkingur R.,Fram,3,2,H
+2025,Breiðablik,KR,3,3,D
+2025,FH,Valur,3,0,H
+2025,ÍA,KA,3,0,H
+2025,ÍBV,Vestri,0,2,A
+2025,Valur,Víkingur R.,1,1,D
+2025,Fram,Afturelding,3,0,H
+2025,Stjarnan,ÍBV,2,3,A
+2025,KR,ÍA,5,0,H
+2025,KA,FH,3,2,H
+2025,Vestri,Breiðablik,0,1,A
+2025,Afturelding,Víkingur R.,1,0,H
+2025,ÍBV,Fram,3,1,H
+2025,Breiðablik,Stjarnan,2,1,H
+2025,FH,KR,2,2,D
+2025,ÍA,Vestri,0,2,A
+2025,Valur,KA,3,1,H
+2025,KR,Valur,3,3,D
+2025,Stjarnan,ÍA,2,1,H
+2025,Víkingur R.,KA,4,0,H
+2025,Fram,Breiðablik,4,2,H
+2025,Afturelding,ÍBV,0,0,D
+2025,Vestri,FH,1,0,H
+2025,Stjarnan,FH,2,1,H
+2025,Víkingur R.,ÍBV,2,0,H
+2025,Fram,ÍA,0,1,A
+2025,KA,KR,2,2,D
+2025,Valur,Vestri,1,1,D
+2025,Breiðablik,Afturelding,2,0,H

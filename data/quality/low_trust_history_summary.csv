@@ -1,0 +1,3 @@
+﻿"Dataset","Rows","Reviewable","Quarantined","Note"
+"match_history_core","148375","24370","124005","15 partition files / 148375 distribution-copy rows"
+"international_matches","1673","0","1673","Authoritative row-level sources required before formal import"

@@ -1,0 +1,121 @@
+﻿[
+    {
+        "LeagueCode":  "ARG",
+        "Rows":  6235,
+        "Sha256":  "79ce0e45f9a0ac3559c1b2eabd82105e9b54da9eff63c3afb74734f26ffd5df3",
+        "MissingDateRows":  0,
+        "SourceFile":  "ARG.csv"
+    },
+    {
+        "LeagueCode":  "AUT",
+        "Rows":  2638,
+        "Sha256":  "baebe6395d1eb48bfa3d526b9f5e255ce36a0d1df82b8fa75009b67dfb1be0f1",
+        "MissingDateRows":  0,
+        "SourceFile":  "AUT.csv"
+    },
+    {
+        "LeagueCode":  "BRA",
+        "Rows":  5497,
+        "Sha256":  "aff11f492eb9daaa94c17650c77952bf09b1da733c35b7123387ffd459e8fcc9",
+        "MissingDateRows":  0,
+        "SourceFile":  "BRA.csv"
+    },
+    {
+        "LeagueCode":  "CHN",
+        "Rows":  2928,
+        "Sha256":  "e9fe5bc8b129cde92792fc2c79938bb7ca779ab68504c132979caac54e6d9e33",
+        "MissingDateRows":  0,
+        "SourceFile":  "CHN.csv"
+    },
+    {
+        "LeagueCode":  "FIN",
+        "Rows":  2608,
+        "Sha256":  "14753c64e856015031c7a91ed8bde51fc3246df5fbc1f262c173c2eac8c2e878",
+        "MissingDateRows":  0,
+        "SourceFile":  "FIN.csv"
+    },
+    {
+        "LeagueCode":  "IRL",
+        "Rows":  2664,
+        "Sha256":  "409091cb548d9cfab5561ed356edbb564284ef67a73e474d1ab9330d695d7d17",
+        "MissingDateRows":  0,
+        "SourceFile":  "IRL.csv"
+    },
+    {
+        "LeagueCode":  "ISL",
+        "Rows":  762,
+        "Sha256":  "ffd61f0eed499ceb4e0c40811f0cd42b2cb6d154f34b7db0ea95f94de9083f0f",
+        "MissingDateRows":  762,
+        "SourceFile":  "ISL.csv"
+    },
+    {
+        "LeagueCode":  "JPN",
+        "Rows":  4523,
+        "Sha256":  "f333fb04b600778be51981125116e1a5f4955a4383431d4ece99fbb6bfb67540",
+        "MissingDateRows":  0,
+        "SourceFile":  "JPN.csv"
+    },
+    {
+        "LeagueCode":  "K1",
+        "Rows":  694,
+        "Sha256":  "a6ade40bef37604d4fdd3ef69759d882d233bac449f5ac47370b356b37814a56",
+        "MissingDateRows":  694,
+        "SourceFile":  "K1.csv"
+    },
+    {
+        "LeagueCode":  "MEX",
+        "Rows":  4655,
+        "Sha256":  "49329c88f4616822f006b9df4a22ab6720df5a40253ff3c8ebe156d53e56faef",
+        "MissingDateRows":  0,
+        "SourceFile":  "MEX.csv"
+    },
+    {
+        "LeagueCode":  "NOR",
+        "Rows":  3471,
+        "Sha256":  "eb5b6dfbc38cbebf6eb9222be63ae14b649d4b1ce9eba4ca65eb7da8863b3d07",
+        "MissingDateRows":  0,
+        "SourceFile":  "NOR.csv"
+    },
+    {
+        "LeagueCode":  "POL",
+        "Rows":  4082,
+        "Sha256":  "efe4ad05d19a196aee1a5dd0934a3bdf7818a805409398d342cbc8f7b9e27b26",
+        "MissingDateRows":  0,
+        "SourceFile":  "POL.csv"
+    },
+    {
+        "LeagueCode":  "ROU",
+        "Rows":  4182,
+        "Sha256":  "2140c5dac46eb0bcdf09901a0f411e731956c677be6fde85c515b4a6ffb852ad",
+        "MissingDateRows":  0,
+        "SourceFile":  "ROU.csv"
+    },
+    {
+        "LeagueCode":  "RUS",
+        "Rows":  3400,
+        "Sha256":  "f4d74a8418f79ceb34ecf5fee23b84561f457e03c3cf4bf1697cf928fddfd693",
+        "MissingDateRows":  0,
+        "SourceFile":  "RUS.csv"
+    },
+    {
+        "LeagueCode":  "SWE",
+        "Rows":  3465,
+        "Sha256":  "d44366cdabe4f111ab51230bff8fef2be9f02e1e4ada57b4471b38b257e34b26",
+        "MissingDateRows":  0,
+        "SourceFile":  "SWE.csv"
+    },
+    {
+        "LeagueCode":  "SWZ",
+        "Rows":  2675,
+        "Sha256":  "183040b700a1836a9134fc88b5e5201779e98555d8952c4de976046d44587a32",
+        "MissingDateRows":  0,
+        "SourceFile":  "SWZ.csv"
+    },
+    {
+        "LeagueCode":  "USA",
+        "Rows":  6034,
+        "Sha256":  "9d8cbcc3eb676707c857e294b4cb917a84a5c6eff8ca65ce5bd0ea6baacf097c",
+        "MissingDateRows":  0,
+        "SourceFile":  "USA.csv"
+    }
+]

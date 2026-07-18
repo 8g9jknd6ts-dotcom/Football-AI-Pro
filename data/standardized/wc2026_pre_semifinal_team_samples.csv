@@ -1,0 +1,13 @@
+MatchID,MatchDate,Team,Opponent,Stage,ScoreFor,ScoreAgainst,ExtraTime,Result,SourceUrl,DataStatus
+FAI-46e3a2752214c320e9425c34,2026-06-17,England,Croatia,Group,4,2,false,W,https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/england-croatia-highlights-match-report,CONTEXT_ONLY_NOT_TRAINING
+FAI-0cf43e578277deba036f4fec,2026-06-23,England,Ghana,Group,0,0,false,D,https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/england-ghana-match-report-highlights,CONTEXT_ONLY_NOT_TRAINING
+FAI-7034ea84f3bc22f9e9a3ad5b,2026-06-27,England,Panama,Group,2,0,false,W,https://www.fifa.com/en/articles/panama-england-match-report-highlights,CONTEXT_ONLY_NOT_TRAINING
+FAI-5c2191b4656741cec369c6db,2026-07-01,England,Congo DR,Round of 32,2,1,false,W,https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/england-congo-dr-review-highlights,CONTEXT_ONLY_NOT_TRAINING
+FAI-1dca475f6b6c25c766d86789,2026-07-05,England,Mexico,Round of 16,3,2,false,W,https://apnews.com/article/f246f138c3a8563cb5a0e3f4037e930a,CONTEXT_ONLY_NOT_TRAINING
+FAI-05e9eb3e38fbe2c5e6715338,2026-07-11,England,Norway,Quarter-final,2,1,true,W,https://www.fifa.com/en/tournaments/mens/worldcup/articles/england-world-cup-quarter-final-wins,CONTEXT_ONLY_NOT_TRAINING
+FAI-2c5024b1e44d806390c6db19,2026-06-16,Argentina,Algeria,Group,3,0,false,W,https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/argentina-road-so-far,CONTEXT_ONLY_NOT_TRAINING
+FAI-d201a0e9e40cd998c8a2eb2e,2026-06-22,Argentina,Austria,Group,2,0,false,W,https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/argentina-road-so-far,CONTEXT_ONLY_NOT_TRAINING
+FAI-5afb12b957fe75e1f80adde6,2026-06-27,Argentina,Jordan,Group,3,1,false,W,https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/argentina-road-so-far,CONTEXT_ONLY_NOT_TRAINING
+FAI-70d7d6f1b9693c9f42c06a1c,2026-07-03,Argentina,Cabo Verde,Round of 32,3,2,true,W,https://www.fifa.com/en/articles/argentina-cabo-verde-match-report-highlights,CONTEXT_ONLY_NOT_TRAINING
+FAI-d505e0229c924b6d919b19ea,2026-07-07,Argentina,Egypt,Round of 16,3,2,false,W,https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/egypt-historic-run,CONTEXT_ONLY_NOT_TRAINING
+FAI-61bb8a563ff2546d01efcec5,2026-07-11,Argentina,Switzerland,Quarter-final,3,1,true,W,https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/argentina-switzerland-match-report-highlights,CONTEXT_ONLY_NOT_TRAINING

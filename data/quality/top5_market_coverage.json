@@ -1,0 +1,332 @@
+[
+  {
+    "league": "EPL",
+    "files": [
+      "epl_2020_21.csv",
+      "epl_2021_22.csv",
+      "epl_2022_23.csv",
+      "epl_2023_24.csv",
+      "epl_2024_25.csv",
+      "epl_2025_26.csv"
+    ],
+    "rows": 13679,
+    "providers": {
+      "MarketAverage": 13679
+    },
+    "markets": {
+      "epl_2022_23.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 380,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 380,
+        "ASIAN_HANDICAP_CLOSE": 380
+      },
+      "epl_2023_24.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 380,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 380,
+        "ASIAN_HANDICAP_CLOSE": 380
+      },
+      "epl_2020_21.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 380,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 380,
+        "ASIAN_HANDICAP_CLOSE": 380
+      },
+      "epl_2021_22.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 380,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 380,
+        "ASIAN_HANDICAP_CLOSE": 380
+      },
+      "epl_2025_26.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 380,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 379,
+        "ASIAN_HANDICAP_CLOSE": 380
+      },
+      "epl_2024_25.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 380,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 380,
+        "ASIAN_HANDICAP_CLOSE": 380
+      }
+    },
+    "status": "RESEARCH_READY_MARKET_DATA"
+  },
+  {
+    "league": "LaLiga",
+    "files": [
+      "laliga_2020_21.csv",
+      "laliga_2021_22.csv",
+      "laliga_2022_23.csv",
+      "laliga_2023_24.csv",
+      "laliga_2024_25.csv",
+      "laliga_2025_26.csv"
+    ],
+    "rows": 13676,
+    "providers": {
+      "MarketAverage": 13676
+    },
+    "markets": {
+      "laliga_2023_24.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 380,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 380,
+        "ASIAN_HANDICAP_CLOSE": 380
+      },
+      "laliga_2022_23.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 380,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 380,
+        "ASIAN_HANDICAP_CLOSE": 380
+      },
+      "laliga_2020_21.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 380,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 380,
+        "ASIAN_HANDICAP_CLOSE": 380
+      },
+      "laliga_2021_22.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 380,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 380,
+        "ASIAN_HANDICAP_CLOSE": 380
+      },
+      "laliga_2024_25.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 380,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 380,
+        "ASIAN_HANDICAP_CLOSE": 380
+      },
+      "laliga_2025_26.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 380,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 376,
+        "ASIAN_HANDICAP_CLOSE": 380
+      }
+    },
+    "status": "RESEARCH_READY_MARKET_DATA"
+  },
+  {
+    "league": "SerieA",
+    "files": [
+      "seriea_2020_21.csv",
+      "seriea_2021_22.csv",
+      "seriea_2022_23.csv",
+      "seriea_2023_24.csv",
+      "seriea_2024_25.csv",
+      "seriea_2025_26.csv"
+    ],
+    "rows": 13675,
+    "providers": {
+      "MarketAverage": 13675
+    },
+    "markets": {
+      "seriea_2022_23.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 380,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 380,
+        "ASIAN_HANDICAP_CLOSE": 380
+      },
+      "seriea_2024_25.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 380,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 380,
+        "ASIAN_HANDICAP_CLOSE": 380
+      },
+      "seriea_2023_24.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 380,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 380,
+        "ASIAN_HANDICAP_CLOSE": 380
+      },
+      "seriea_2020_21.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 379,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 379,
+        "ASIAN_HANDICAP_CLOSE": 380
+      },
+      "seriea_2021_22.csv": {
+        "1X2_OPEN": 379,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 379,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 379,
+        "ASIAN_HANDICAP_CLOSE": 380
+      },
+      "seriea_2025_26.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 380,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 380,
+        "ASIAN_HANDICAP_CLOSE": 380
+      }
+    },
+    "status": "RESEARCH_READY_MARKET_DATA"
+  },
+  {
+    "league": "Bundesliga",
+    "files": [
+      "bundesliga_2020_21.csv",
+      "bundesliga_2021_22.csv",
+      "bundesliga_2022_23.csv",
+      "bundesliga_2023_24.csv",
+      "bundesliga_2024_25.csv",
+      "bundesliga_2025_26.csv"
+    ],
+    "rows": 11016,
+    "providers": {
+      "MarketAverage": 11016
+    },
+    "markets": {
+      "bundesliga_2022_23.csv": {
+        "1X2_OPEN": 306,
+        "1X2_CLOSE": 306,
+        "TOTAL_OPEN": 306,
+        "TOTAL_CLOSE": 306,
+        "ASIAN_HANDICAP_OPEN": 306,
+        "ASIAN_HANDICAP_CLOSE": 306
+      },
+      "bundesliga_2021_22.csv": {
+        "1X2_OPEN": 306,
+        "1X2_CLOSE": 306,
+        "TOTAL_OPEN": 306,
+        "TOTAL_CLOSE": 306,
+        "ASIAN_HANDICAP_OPEN": 306,
+        "ASIAN_HANDICAP_CLOSE": 306
+      },
+      "bundesliga_2023_24.csv": {
+        "1X2_OPEN": 306,
+        "1X2_CLOSE": 306,
+        "TOTAL_OPEN": 306,
+        "TOTAL_CLOSE": 306,
+        "ASIAN_HANDICAP_OPEN": 306,
+        "ASIAN_HANDICAP_CLOSE": 306
+      },
+      "bundesliga_2020_21.csv": {
+        "1X2_OPEN": 306,
+        "1X2_CLOSE": 306,
+        "TOTAL_OPEN": 306,
+        "TOTAL_CLOSE": 306,
+        "ASIAN_HANDICAP_OPEN": 306,
+        "ASIAN_HANDICAP_CLOSE": 306
+      },
+      "bundesliga_2025_26.csv": {
+        "1X2_OPEN": 306,
+        "1X2_CLOSE": 306,
+        "TOTAL_OPEN": 306,
+        "TOTAL_CLOSE": 306,
+        "ASIAN_HANDICAP_OPEN": 306,
+        "ASIAN_HANDICAP_CLOSE": 306
+      },
+      "bundesliga_2024_25.csv": {
+        "1X2_OPEN": 306,
+        "1X2_CLOSE": 306,
+        "TOTAL_OPEN": 306,
+        "TOTAL_CLOSE": 306,
+        "ASIAN_HANDICAP_OPEN": 306,
+        "ASIAN_HANDICAP_CLOSE": 306
+      }
+    },
+    "status": "RESEARCH_READY_MARKET_DATA"
+  },
+  {
+    "league": "Ligue1",
+    "files": [
+      "ligue1_2020_21.csv",
+      "ligue1_2021_22.csv",
+      "ligue1_2022_23.csv",
+      "ligue1_2023_24.csv",
+      "ligue1_2024_25.csv",
+      "ligue1_2025_26.csv"
+    ],
+    "rows": 12342,
+    "providers": {
+      "MarketAverage": 12342
+    },
+    "markets": {
+      "ligue1_2022_23.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 380,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 380,
+        "ASIAN_HANDICAP_CLOSE": 380
+      },
+      "ligue1_2021_22.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 380,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 380,
+        "ASIAN_HANDICAP_CLOSE": 380
+      },
+      "ligue1_2023_24.csv": {
+        "1X2_OPEN": 306,
+        "1X2_CLOSE": 306,
+        "TOTAL_OPEN": 306,
+        "TOTAL_CLOSE": 306,
+        "ASIAN_HANDICAP_OPEN": 306,
+        "ASIAN_HANDICAP_CLOSE": 306
+      },
+      "ligue1_2025_26.csv": {
+        "1X2_OPEN": 305,
+        "1X2_CLOSE": 305,
+        "TOTAL_OPEN": 305,
+        "TOTAL_CLOSE": 305,
+        "ASIAN_HANDICAP_OPEN": 305,
+        "ASIAN_HANDICAP_CLOSE": 305
+      },
+      "ligue1_2024_25.csv": {
+        "1X2_OPEN": 306,
+        "1X2_CLOSE": 306,
+        "TOTAL_OPEN": 306,
+        "TOTAL_CLOSE": 306,
+        "ASIAN_HANDICAP_OPEN": 306,
+        "ASIAN_HANDICAP_CLOSE": 306
+      },
+      "ligue1_2020_21.csv": {
+        "1X2_OPEN": 380,
+        "1X2_CLOSE": 380,
+        "TOTAL_OPEN": 380,
+        "TOTAL_CLOSE": 380,
+        "ASIAN_HANDICAP_OPEN": 380,
+        "ASIAN_HANDICAP_CLOSE": 380
+      }
+    },
+    "status": "RESEARCH_READY_MARKET_DATA"
+  }
+]

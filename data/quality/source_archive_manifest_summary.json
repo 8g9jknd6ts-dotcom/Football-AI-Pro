@@ -1,0 +1,15 @@
+﻿{
+    "Status":  "PASS",
+    "ArchiveRoot":  "C:\\Users\\apple\\Documents\\足彩分析\\data\\source_archive",
+    "FileCount":  296,
+    "ByteCount":  69999331,
+    "UniqueHashes":  245,
+    "DuplicateHashGroups":  29,
+    "ExtensionCounts":  {
+                            "md":  133,
+                            "csv":  158,
+                            "gz":  5
+                        },
+    "ManifestPath":  "C:\\Users\\apple\\Documents\\足彩分析\\data\\quality\\source_archive_manifest.csv",
+    "Policy":  "Raw retention inventory only; does not approve training or backtesting use."
+}

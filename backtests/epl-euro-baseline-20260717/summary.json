@@ -1,0 +1,37 @@
+﻿{
+    "Model":  "FootballAI-Poisson-Baseline",
+    "Version":  "1.0.0-candidate",
+    "CreatedAt":  "2026-07-16T18:47:49.5766684Z",
+    "DataSha256":  "a0c3c634b01f9778c3afd3c5e58c98f0b330c3357d10b0747677ea202457fbe5",
+    "Protocol":  "docs/BACKTEST_PROTOCOL.md",
+    "Parameters":  {
+                       "Window":  10,
+                       "MinimumHistory":  5,
+                       "HomeAdvantage":  1.15,
+                       "Rho":  -0.12,
+                       "MaxGoals":  8
+                   },
+    "Leagues":  [
+                    {
+                        "LeagueCode":  "FD_E0",
+                        "SourceMatches":  2280,
+                        "Evaluated":  2189,
+                        "Accuracy":  0.51073549566011878,
+                        "Brier":  0.60652987347064913,
+                        "LogLoss":  1.0142706783483511,
+                        "MajorityBaseline":  0.431140350877193,
+                        "AccuracyLift":  0.079595144782925786,
+                        "MarketEvaluated":  2189,
+                        "MarketAccuracy":  0.55322064869803567,
+                        "MarketBrier":  0.57150886950030211,
+                        "MarketLogLoss":  0.962885828426129,
+                        "Over25Evaluated":  2189,
+                        "Over25Accuracy":  0.56372772955687533,
+                        "Over25Brier":  0.25006517129769124,
+                        "MarketOver25Evaluated":  2189,
+                        "MarketOver25Accuracy":  0.57788944723618085,
+                        "MarketOver25Brier":  0.24167187622668965,
+                        "GatePassed":  true
+                    }
+                ]
+}

@@ -1,0 +1,27 @@
+league_type,competition,season,total_matches,has_full_time,has_half_time,has_shots,has_corners,has_cards,has_odds,has_xg,last_updated
+worldcup,FIFA World Cup,2022,64,1,1,0,0,0,0,0,2026-06-21 04:23:39
+worldcup,FIFA World Cup,2018,64,1,0,0,0,0,0,,2026-06-21 04:29:03
+worldcup,FIFA World Cup,2014,63,1,0,0,0,0,0,,2026-06-21 04:50:36
+euro,UEFA Euro,2024,51,1,1,0,0,0,0,0,2026-06-21 04:24:03
+euro,UEFA Euro,2020,51,1,0,0,0,0,0,,2026-06-21 04:28:13
+euro,UEFA Euro,2016,51,1,0,0,0,0,0,,2026-06-21 04:50:35
+copa,Copa America,2024,32,1,1,0,0,0,0,0,2026-06-21 04:24:22
+copa,Copa America,2021,30,1,0,0,0,0,0,,2026-06-21 04:29:22
+copa,Copa America,2019,26,1,0,0,0,0,0,,2026-06-21 04:51:21
+copa,Copa America,2016,16,0,0,0,0,0,0,,
+copa,Copa America,2015,26,1,0,0,0,0,0,,2026-06-21 04:51:21
+asia,AFC Asian Cup,2023,54,1,0,0,0,0,0,,2026-06-21 04:42:57
+asia,AFC Asian Cup,2019,52,1,0,0,0,0,0,,2026-06-21 04:52:30
+asia,AFC Asian Cup,2015,36,1,0,0,0,0,0,,2026-06-21 04:52:31
+afcon,Africa Cup of Nations,2023,52,1,0,0,0,0,0,,2026-06-21 04:43:23
+afcon,Africa Cup of Nations,2021,132,1,0,0,0,0,0,,2026-06-21 04:52:32
+afcon,Africa Cup of Nations,2019,52,1,0,0,0,0,0,,2026-06-21 04:52:32
+afcon,Africa Cup of Nations,2017,32,0,0,0,0,0,0,,
+UNL,UEFA Nations League,2024-25,52,1,0,0,0,0,0,,2026-06-21 04:56:27
+UNL,UEFA Nations League,2022-23,215,1,0,0,0,0,0,,2026-06-21 04:44:29
+UNL,UEFA Nations League,2020-21,54,1,0,0,0,0,0,,2026-06-21 04:55:50
+UNL,UEFA Nations League,2018-19,38,1,0,0,0,0,0,,2026-06-21 04:55:49
+WCQ,World Cup Qualification,2026,0,0,0,0,0,0,0,,
+WCQ,World Cup Qualification,2022,101,1,0,0,0,0,0,,2026-06-21 05:03:48
+WCQ,World Cup Qualification,2018,0,0,0,0,0,0,0,,
+friendly,International Friendly,all,256,1,0,0,0,0,0,,2026-06-21 05:03:48
