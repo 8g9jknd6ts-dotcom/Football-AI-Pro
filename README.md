@@ -1,8 +1,10 @@
 # Football AI Pro
 
-## Latest postmortem sync — 2026-07-19
+## Latest postmortem sync – 2026-07-19
 
 `scripts/build_8match_postmortem.py` reproducibly generates the 2026-07-18 eight-match postmortem and writes prediction context, verified outcomes, settlement details and user-preference updates to the unified tracking database. Post-match outcomes are audit-only and are never fed back into pre-match features.
+
+Current operating rules and model boundaries: [`docs/MODEL_RULES_SUMMARY.md`](docs/MODEL_RULES_SUMMARY.md).
 
 Football AI Pro 是面向中国竞彩、兼容欧洲赔率体系的数据驱动足球分析系统。
 

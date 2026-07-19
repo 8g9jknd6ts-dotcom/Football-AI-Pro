@@ -1,5 +1,11 @@
 # 开发日志
 
+## Football AI 1.0.0-alpha.45 - 2026-07-19
+
+- Added `docs/MODEL_RULES_SUMMARY.md` as the concise operating contract for data tiers, market evidence, model status, rules, reporting and production gates.
+- Linked the model rules summary from the README.
+- Regenerated the verified eight-match postmortem and synchronized its tracking-database snapshot during validation.
+
 ## Football AI 1.0.0-alpha.40 - 2026-07-17
 
 - Set the English Premier League, La Liga, Serie A, Bundesliga and Ligue 1 as the first-priority league expansion set.
