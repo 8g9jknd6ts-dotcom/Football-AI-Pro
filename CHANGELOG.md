@@ -5,6 +5,7 @@
 - Added `docs/MODEL_RULES_SUMMARY.md` as the concise operating contract for data tiers, market evidence, model status, rules, reporting and production gates.
 - Linked the model rules summary from the README.
 - Regenerated the verified eight-match postmortem and synchronized its tracking-database snapshot during validation.
+- Unified version references across README and completion-audit documents.
 
 ## Football AI 1.0.0-alpha.40 - 2026-07-17
 

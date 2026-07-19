@@ -8,7 +8,7 @@ Current operating rules and model boundaries: [`docs/MODEL_RULES_SUMMARY.md`](do
 
 Football AI Pro 是面向中国竞彩、兼容欧洲赔率体系的数据驱动足球分析系统。
 
-当前版本：**Football AI 1.0.0-alpha.1（数据基线）**
+当前版本：**Football AI 1.0.0-alpha.45（数据基线）**
 
 ## 数据红线
 
