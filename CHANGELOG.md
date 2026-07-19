@@ -1,5 +1,10 @@
 # 开发日志
 
+## Football AI 1.0.0-alpha.47 - 2026-07-19
+
+- Corrected FIN/SWE date-range auditing to parse day-first dates instead of lexicographic strings.
+- Regenerated league quality and model-gate outputs; Asian/totals history remains blocked until verifiable multi-bookmaker archives are imported.
+
 ## Football AI 1.0.0-alpha.46 - 2026-07-19
 
 - Fixed league-quality audit root resolution and refreshed FIN/SWE quality outputs.

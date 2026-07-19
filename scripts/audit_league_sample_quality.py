@@ -5,7 +5,7 @@ import pandas as pd
 ROOT = Path(__file__).resolve().parents[1]
 RAW = ROOT / 'data' / 'raw'
 OUT = ROOT / 'data' / 'quality' / 'league_sample_quality.csv'
-OUT_MD = ROOT / 'docs' / 'LEAGUE_SAMPLE_QUALITY_20260717.md'
+OUT_MD = ROOT / 'docs' / 'LEAGUE_SAMPLE_QUALITY_20260719.md'
 OUT_JSON = ROOT / 'data' / 'quality' / 'league_model_gate.json'
 
 rows = []
@@ -35,11 +35,15 @@ for path in sorted(RAW.glob('*.csv')):
         status = 'RESEARCH_ONLY'
     else:
         status = 'LOW_TRUST_REVIEW'
-    rows.append({'league_file':path.name,'matches':n,'effective_matches':n-duplicate_rows,'duplicate_rows':duplicate_rows,'duplicate_rate':round(duplicate_rate,4),'seasons':seasons,'date_min':str(df['Date'].min()),'date_max':str(df['Date'].max()),'result_complete':round(result_rate,4),'avg_1x2_complete':round(avg_rate,4),'max_1x2_complete':round(max_rate,4),'b365_complete':round(b365_ok/n,4) if n else 0,'status':status})
+    parsed_dates = pd.to_datetime(df['Date'], dayfirst=True, errors='coerce')
+    valid_dates = parsed_dates.dropna()
+    date_min = valid_dates.min().date().isoformat() if len(valid_dates) else ''
+    date_max = valid_dates.max().date().isoformat() if len(valid_dates) else ''
+    rows.append({'league_file':path.name,'matches':n,'effective_matches':n-duplicate_rows,'duplicate_rows':duplicate_rows,'duplicate_rate':round(duplicate_rate,4),'seasons':seasons,'date_min':date_min,'date_max':date_max,'result_complete':round(result_rate,4),'avg_1x2_complete':round(avg_rate,4),'max_1x2_complete':round(max_rate,4),'b365_complete':round(b365_ok/n,4) if n else 0,'status':status})
 
 out = pd.DataFrame(rows)
 out.to_csv(OUT, index=False, encoding='utf-8-sig')
-OUT_JSON.write_text(json.dumps({'generated_at':'2026-07-17','policy':{'1X2':'RESEARCH_AND_1X2_BACKTEST','asian_totals':'SEPARATE_MARKET_HISTORY_REQUIRED','production':'BACKTEST_GATE_REQUIRED'},'leagues':rows}, ensure_ascii=False, indent=2), encoding='utf-8')
+OUT_JSON.write_text(json.dumps({'generated_at':'2026-07-19','policy':{'1X2':'RESEARCH_AND_1X2_BACKTEST','asian_totals':'SEPARATE_MARKET_HISTORY_REQUIRED','production':'BACKTEST_GATE_REQUIRED'},'leagues':rows}, ensure_ascii=False, indent=2), encoding='utf-8')
 lines = ['# 联赛样本质量审计（2026-07-17）','', '分级门禁：`RESEARCH_AND_1X2_BACKTEST` 仅表示可进入1X2独立回测，不代表可直接生产；亚盘/大小球仍需独立盘口历史。重复键按日期+主客队识别。','', '| 文件 | 有效场次 | 重复率 | 赛季数 | 赛果完整 | 平均1X2 | 最高1X2 | 状态 |','|---|---:|---:|---:|---:|---:|---:|---|']
 for r in rows:
     lines.append(f"| {r['league_file']} | {r['effective_matches']} | {r['duplicate_rate']:.1%} | {r['seasons']} | {r['result_complete']:.1%} | {r['avg_1x2_complete']:.1%} | {r['max_1x2_complete']:.1%} | {r['status']} |")
