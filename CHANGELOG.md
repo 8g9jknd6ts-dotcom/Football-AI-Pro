@@ -1,5 +1,10 @@
 # 开发日志
 
+## Football AI 1.0.0-alpha.46 - 2026-07-19
+
+- Fixed league-quality audit root resolution and refreshed FIN/SWE quality outputs.
+- Kept Asian/totals markets gated until source archives are available.
+
 ## Football AI 1.0.0-alpha.45 - 2026-07-19
 
 - Added `docs/MODEL_RULES_SUMMARY.md` as the concise operating contract for data tiers, market evidence, model status, rules, reporting and production gates.

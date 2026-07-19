@@ -2,7 +2,7 @@ from pathlib import Path
 import json
 import pandas as pd
 
-ROOT = Path(r'C:\Users\apple\Documents\足彩分析')
+ROOT = Path(__file__).resolve().parents[1]
 RAW = ROOT / 'data' / 'raw'
 OUT = ROOT / 'data' / 'quality' / 'league_sample_quality.csv'
 OUT_MD = ROOT / 'docs' / 'LEAGUE_SAMPLE_QUALITY_20260717.md'
