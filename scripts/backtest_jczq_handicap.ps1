@@ -1,0 +1,4 @@
+param([string]$ProjectRoot='',[string]$InputPath='')
+$ErrorActionPreference='Stop';if(!$ProjectRoot){$ProjectRoot=Split-Path -Parent (Split-Path -Parent $MyInvocation.MyCommand.Path)};if(!$InputPath){$InputPath=Join-Path $ProjectRoot 'data\standardized\jczq_handicap_history.csv'};$out=Join-Path $ProjectRoot 'backtests\jczq-handicap-v1';New-Item -ItemType Directory -Force $out|Out-Null
+if(!(Test-Path $InputPath)){[pscustomobject]@{Status='NO_AUDITABLE_JCZQ_HANDICAP_HISTORY';FormalRecommendation=$false;Ordering='LeagueCode, MatchDate, MatchID';Strata='LeagueCode, HomeHandicap';Protocol='docs/JCZQ_HANDICAP_BACKTEST_PROTOCOL.md';Leagues=@();Lines=@()}|ConvertTo-Json -Depth 5|Set-Content (Join-Path $out 'summary.json') -Encoding UTF8;exit}
+throw 'Input schema is present but this SHADOW backtest requires the complete chronological historical runner from the root workspace; do not substitute Asian or MarketAverage data for official JCZQ handicap odds.'

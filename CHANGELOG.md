@@ -1,5 +1,10 @@
 # 开发日志
 
+## Football AI 1.0.0-alpha.48 - 2026-07-20
+
+- Added an independent JCZQ handicap model, exact settlement mapping, mandatory skip gate, post-match audit entry point, official-history template and protocol.
+- Kept the standard 1X2 probability logic unchanged; recent results were recorded as audit context only and did not change parameters.
+
 ## Football AI 1.0.0-alpha.47 - 2026-07-19
 
 - Corrected FIN/SWE date-range auditing to parse day-first dates instead of lexicographic strings.
