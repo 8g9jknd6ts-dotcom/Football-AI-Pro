@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- Added Rule072 and made the operating framework explicit: de-vigged odds are the market baseline, dated same-league history calibrates scoring and goal-margin distributions, and totals odds constrain expected goals. The three layers are complementary and cannot replace one another.
+- Distinguished a dated-history research result from a formally validated handicap recommendation. Historical calibration may be reported with probabilities and edge; official handicap recommendations remain gated on league, line and time-ordered historical odds backtesting.
+- Required reports to distinguish insufficient-data observation from a computed research result that fails the formal handicap gate or has material cross-layer conflict.
 - Repaired the independent JCZQ goal-margin calculation so probability mass is preserved and no longer produces empty values.
 - Made handicap analysis require dated, pre-match history; undated league records are excluded rather than risking future-data leakage.
 - Added explicit `GoalMarginDistributionStatus` and coverage/rejection fields so reports distinguish an unavailable distribution from a computed distribution that fails a decision gate.
