@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- Added Rule073/Rule074 operating overrides: current match direction uses the available market odds as the sole directional input; older historical samples are retained for post-match audit only and must not reverse or re-weight a live recommendation until a sufficiently recent, same-line validation set exists.
+- Enforced exact one-goal handicap settlement and same-match consistency: for home -1, a one-goal home win maps to handicap draw, two-or-more goals maps to handicap win, and a draw or away win maps to handicap loss. Standard 1X2 and handicap outputs may not be presented as simultaneous executable picks when their event sets conflict.
+
 - Added Rule072 and made the operating framework explicit: de-vigged odds are the market baseline, dated same-league history calibrates scoring and goal-margin distributions, and totals odds constrain expected goals. The three layers are complementary and cannot replace one another.
 - Distinguished a dated-history research result from a formally validated handicap recommendation. Historical calibration may be reported with probabilities and edge; official handicap recommendations remain gated on league, line and time-ordered historical odds backtesting.
 - Required reports to distinguish insufficient-data observation from a computed research result that fails the formal handicap gate or has material cross-layer conflict.
