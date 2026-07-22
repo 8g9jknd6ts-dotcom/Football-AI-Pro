@@ -7,6 +7,7 @@
 | Rule003 | 生效 | 未通过可复现历史回测门禁的模型不得进入 production。 |
 | Rule073 | 生效 | 当前赛前方向以可核验的临场市场赔率为唯一方向依据；时间较久或不匹配的历史样本只用于赛后审计，不得反转或重新加权当前推荐。 |
 | Rule074 | 生效 | 让球必须按净胜球严格结算；主让一球时，主胜一球为让平、主胜两球以上为让胜、平局或客胜为让负。标准胜平负与让球结果集冲突时，不得同时输出为可执行推荐。 |
+| Rule075 | 生效 | 让球盘面研究标签必须区分“一球小胜”和“客队两球以上胜出”：盘口支持主队小胜时写盘面倾向让平，明确支持客队净胜两球以上时才写盘面倾向让负，无法区分时写不设盘面方向；研究标签不得替代正式推荐，独立净胜球分布不可审计时仍必须 HANDICAP_DECISION=SKIP。 |
 | Rule004 | 生效 | 缺失盘口数据时对应玩法输出 unavailable，并给出缺失原因。 |
 | Rule005 | 生效 | 分析报告必须包含九项默认输出和规定的逐场分析章节。 |
 | Rule006 | 生效 | 任何字段修正必须发生在标准化层，原始来源文件不得静默修改。 |
@@ -75,4 +76,4 @@
 | Rule069 | ACTIVE | European qualifying matches require competition, opponent canonical name and two-leg format validation before league samples or strength priors are applied. |
 | Rule070 | ACTIVE | One-goal-margin matches are a separate Asian-handicap boundary class; -1/＋1 settlement must be calculated from the actual goal margin and not inferred from the 1X2 result. |
 | Rule071 | ACTIVE | Derbies, cross-league qualifiers and large score/odds reversals receive an elevated cold-risk penalty unless synchronized multi-company movement and verified team news support the direction. |
-| Rule072 | ACTIVE | Pre-match analysis uses three non-substitutable layers: de-vigged odds establish the market baseline, dated pre-match same-league history calibrates scoring and goal-margin distributions, and totals odds constrain expected total goals. Standard 1X2 remains market-led but history-calibrated; JCZQ handicap requires all applicable layers. Missing data, material layer conflict, insufficient edge, or an unpassed historical handicap gate must produce an explicit observation or `HANDICAP_DECISION=SKIP`, never a forced selection. Research-grade probabilities based on dated results must not be presented as a formally backtested recommendation without league/line/time-ordered official handicap-odds validation. |
+| Rule072 | ACTIVE | Pre-match direction is market-led: de-vigged, time-stamped odds are the sole current directional input. Historical samples are retained for post-match audit and future validation, not for reversing or re-weighting a live direction; totals odds are a cross-check only. The independent JCZQ handicap layer must still calculate and strictly map the auditable goal-margin distribution to the actual line. Missing distribution, market conflict, insufficient edge, or a failed formal gate must produce an explicit observation or `HANDICAP_DECISION=SKIP`, never a forced selection. |
