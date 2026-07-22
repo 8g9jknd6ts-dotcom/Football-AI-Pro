@@ -1,0 +1,11 @@
+MatchID,LeagueCode,MatchDate,MatchTime,SourceRow,HomeTeam,AwayTeam,HomeGoals,AwayGoals
+T01,K1,2026-05-01,18:00,1,Jeju SK,Alpha,1,0
+T02,K1,2026-05-02,18:00,2,Beta,Gangwon,0,1
+T03,K1,2026-05-03,18:00,3,Jeju SK,Gamma,1,1
+T04,K1,2026-05-04,18:00,4,Delta,Gangwon,1,2
+T05,K1,2026-05-05,18:00,5,Jeju SK,Epsilon,2,1
+T06,K1,2026-05-06,18:00,6,Zeta,Gangwon,1,1
+T07,K1,2026-05-07,18:00,7,Jeju SK,Eta,0,1
+T08,K1,2026-05-08,18:00,8,Theta,Gangwon,2,1
+T09,K1,2026-05-09,18:00,9,Jeju SK,Iota,1,2
+T10,K1,2026-05-10,18:00,10,Kappa,Gangwon,0,0

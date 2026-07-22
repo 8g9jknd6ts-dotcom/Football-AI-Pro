@@ -1,5 +1,11 @@
 # 开发日志
 
+## Unreleased
+
+- Repaired the independent JCZQ goal-margin calculation so probability mass is preserved and no longer produces empty values.
+- Made handicap analysis require dated, pre-match history; undated league records are excluded rather than risking future-data leakage.
+- Added explicit `GoalMarginDistributionStatus` and coverage/rejection fields so reports distinguish an unavailable distribution from a computed distribution that fails a decision gate.
+
 ## Football AI 1.0.0-alpha.48 - 2026-07-20
 
 - Added an independent JCZQ handicap model, exact settlement mapping, mandatory skip gate, post-match audit entry point, official-history template and protocol.
